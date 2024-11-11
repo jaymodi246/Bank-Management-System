@@ -1,4 +1,5 @@
 Bank Management System 📊💰
+
 A PL/SQL and SQL-based Bank Management System designed to manage customer accounts, transactions, and loans while ensuring secure and efficient data handling. This project leverages PostgreSQL to provide robust functionalities for handling banking operations.
 
 📋 Project Description
@@ -28,4 +29,5 @@ pgAdmin or any other PostgreSQL client tool
 If you have any questions or suggestions, feel free to reach out:
 
 Email: jkmodi246@gmail.com
+
 GitHub: jaymodi246
